@@ -2,5 +2,9 @@
     {
         "title":"Test Title",
         "text":"Test text"
-    }
+    },
+
+    {"title": "the first note on note-taker",
+     "text": "Some text and words and verbage" 
+}
 ]
