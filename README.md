@@ -36,8 +36,11 @@ Check out the deployed app here: [Note-Taker](https://note-taker-chg-ac2076652fd
 
 ### Screenshots
 
-![screenshot](https://github.com/CarolHGray/Note-Taker/public/assets/images/FirstPageScreenshot.jpg>)
-![screenshot](https://github.com/CarolHGray/Note-Taker/public/assets/images/SecondPageScreenshot.jpg>)
-![screenshot](https://github.com/CarolHGray/Note-Taker/public/assets/images/UpdatedPAgeScreenshot.jpg>)
+![screenshot](https://github.com/CarolHGray/Note-Taker/tree/main/public/assets/images/FIrstPageScreenshot.jpg)
+
+![screenshot](https://github.com/CarolHGray/Note-Taker/tree/main/public/assets/images/SecondPageScreenshot.jpg)
+
+![screenshot](https://github.com/CarolHGray/Note-Taker/tree/main/public/assets/images/UpdatedPageScreenshot.jpg)
+
 
 
