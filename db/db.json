@@ -1,10 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    },
-
-    {"title": "the first note on note-taker",
-     "text": "Some text and words and verbage" 
-}
-]
+[{"title":"Test Title","text":"Test text"},{"title":"the first note on note-taker","text":"Some text and words and verbage"},{"title":"more stuff to do","text":"run another marathon"},{"title":"New thing to do","text":"Clean up your files\n\n","id":"207a3a40-da89-11ee-a5f6-ebfd2539aea6"},{"title":"Upgrade wi-fi service","text":"find out what is available\n","id":"58516c90-da89-11ee-a5f6-ebfd2539aea6"},{"title":"Deploy with Heroku","text":"Sign up for a new heroku application\n","id":"8cc96e50-da89-11ee-a5f6-ebfd2539aea6"},{"title":"LEarn more about Express","text":"Pay attention\n","id":"49b6da10-da90-11ee-b3e3-d5e98dbbb91a"}]
